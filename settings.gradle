@@ -1,0 +1,6 @@
+rootProject.name = 'notification'
+
+includeBuild 'api'
+includeBuild 'service'
+includeBuild 'component-test'
+
